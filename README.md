@@ -2,7 +2,7 @@
 👋 I'm a programming student, focusing on Front-end, but also with Back-end skills.<br>💼 ILooking for the first opportunity to work as a developer.<br>💻 I'm currently studying and developing some personal and collective projects.
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrozss) <br>📧 pedro2707soares@gmail.com
 
 # 💻 Skills:
