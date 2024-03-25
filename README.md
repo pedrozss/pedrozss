@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm a programming student, focusing on Front-end, but also with Back-end skills.<br>💼 ILooking for the first opportunity to work as a developer.<br>💻 I'm currently studying and developing some personal and collective projects.
+👋 I'm a programming student, focusing on Java Back-end, but also with Front-end skills.<br>💼 ILooking for the first opportunity to work as a developer.<br>💻 I'm currently studying and developing some personal and collective projects.
 
 
 ## 🌐 Contact:
