@@ -4,6 +4,7 @@
 
 <p align="left">👋 I'm a programming student, focusing on Java Back-end, but also with Front-end skills.<br>💼 ILooking for the first opportunity to work as a developer.<br>💻 I'm currently studying and developing some personal and collective projects.
 
+
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=004DBF&color:FFF)](https://linkedin.com/in/pedrozss)
