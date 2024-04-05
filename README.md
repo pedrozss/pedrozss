@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=004DBF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Soares+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
+<iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
+
 
 <p align="left">👋 I'm a programming student, focusing on Java Back-end, but also with Front-end skills.<br>💼 ILooking for the first opportunity to work as a developer.<br>💻 I'm currently studying and developing some personal and collective projects.
 
