@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrozss)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro2707soares@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=004DBF&color:FFF)](mailto:pedro2707soares@gmail.com)
 
 <h3 align="left">Skills</h3>
 
