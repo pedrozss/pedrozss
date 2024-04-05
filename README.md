@@ -4,8 +4,10 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrozss)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=004DBF&color:FFF)](https://linkedin.com/in/pedrozss)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=004DBF&color:FFF)](mailto:pedro2707soares@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=004DBF&color:FFF)](https://www.instagram.com/pesoaresz/)
+
 
 <h3 align="left">Skills</h3>
 
