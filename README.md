@@ -1,6 +1,6 @@
 <img align="right" alt="" height="300px" src="./setup.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=4000&pause=1000&color=004DBF&background=FCFCFC00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Pedro+Soares!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=48&duration=4000&pause=1000&color=004DBF&background=FCFCFC00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Pedro+Soares!)](https://git.io/typing-svg)
 
 <p align="left"> // I'm a programming student, focusing on Java Back-end, but also with Front-end skills.<br> // Looking for the first opportunity to work as a developer.<br> // I'm currently studying and developing some personal and collective projects.
 
